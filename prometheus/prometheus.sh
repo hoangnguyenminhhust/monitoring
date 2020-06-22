@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo su -
 export RELEASE="2.2.1"
 
 

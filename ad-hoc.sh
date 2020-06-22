@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo su
 
-./node-exporter/node-exporter.sh
+bash ./node-exporter/node-exporter.sh
 
 
-./prometheus/prometheus.sh
+bash ./prometheus/prometheus.sh
